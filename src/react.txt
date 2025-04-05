@@ -1,0 +1,7 @@
+prop drilling
+nested component/deeply rooted
+
+great-grand
+grand
+parent
+child
